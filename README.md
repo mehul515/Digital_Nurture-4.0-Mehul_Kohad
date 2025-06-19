@@ -35,7 +35,7 @@ Week-01/
 
 ## 📅 Week 01 Topics
 
-### Design Patterns
+### Design Patterns and Principles
 - Singleton Pattern
 - Factory Method Pattern
 
