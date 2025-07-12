@@ -31,20 +31,6 @@ Week-01/
 
 ```
 
----
-
-## 📅 Week 01 Topics
-
-### Design Patterns
-- Singleton Pattern
-- Factory Method Pattern
-
-### Data Structures and Algorithms
-- E-commerce Platform Search (Linear and Binary Search)
-- Financial Forecasting using Recursion
-
----
-
 All programs are implemented using Java and tested with basic sample input. Output screenshots are provided in each assignment folder.
 
 ---
